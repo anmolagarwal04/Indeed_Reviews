@@ -1,4 +1,4 @@
-# Indeed_Reviews
+# Indeed Reviews
 
 #### This repository contains the code for the experiments conducted on employee reviews taken from the website Indeed. 
 
